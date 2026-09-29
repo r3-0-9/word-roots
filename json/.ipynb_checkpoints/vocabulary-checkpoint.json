@@ -1,0 +1,98 @@
+{
+  "roots": [
+    {
+      "root": "port",
+      "meaning": "carry",
+      "chinese": "携带、运送",
+      "description": "看到 port，可以先联想到 carry：携带、运送。",
+      "words": [
+        {
+          "word": "transport",
+          "parts": "trans + port",
+          "idea": "carry across",
+          "chinese": "运输、运送",
+          "example": "Trucks transport goods across the country.",
+          "translation": "卡车把货物运往全国各地。"
+        },
+        {
+          "word": "import",
+          "parts": "im + port",
+          "idea": "carry in",
+          "chinese": "进口",
+          "example": "China imports some food from other countries.",
+          "translation": "中国从其他国家进口一些食品。"
+        },
+        {
+          "word": "export",
+          "parts": "ex + port",
+          "idea": "carry out",
+          "chinese": "出口",
+          "example": "The company exports cars to Japan.",
+          "translation": "这家公司把汽车出口到日本。"
+        },
+        {
+          "word": "portable",
+          "parts": "port + able",
+          "idea": "able to be carried",
+          "chinese": "便携的",
+          "example": "This is a portable computer.",
+          "translation": "这是一台便携式电脑。"
+        },
+        {
+          "word": "report",
+          "parts": "re + port",
+          "idea": "carry back",
+          "chinese": "报告、报道",
+          "example": "Please report the problem.",
+          "translation": "请报告这个问题。"
+        },
+        {
+          "word": "support",
+          "parts": "sup + port",
+          "idea": "support / carry",
+          "chinese": "支持、支撑",
+          "example": "My family supports me.",
+          "translation": "我的家人支持我。"
+        }
+      ]
+    },
+    {
+      "root": "dict",
+      "meaning": "say",
+      "chinese": "说、讲",
+      "description": "看到 dict，可以先联想到 say：说、讲。",
+      "words": [
+        {
+          "word": "predict",
+          "parts": "pre + dict",
+          "idea": "say before",
+          "chinese": "预测、预言",
+          "example": "Scientists predict that the weather will change.",
+          "translation": "科学家预测天气会发生变化。"
+        },
+        {
+          "word": "dictate",
+          "parts": "dict + ate",
+          "idea": "say or order",
+          "chinese": "口述；命令",
+          "example": "The manager dictated a letter.",
+          "translation": "经理口述了一封信。"
+        },
+        {
+          "word": "dictionary",
+          "parts": "dict + ionary",
+          "idea": "a book about words",
+          "chinese": "词典",
+          "example": "I use a dictionary to learn new words.",
+          "translation": "我用词典学习新单词。"
+        }
+      ]
+    }
+  ]
+} }
+  ]
+}
+      ]
+    }
+  ]
+}

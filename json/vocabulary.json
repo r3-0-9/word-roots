@@ -1,0 +1,196 @@
+{
+  "roots": [
+    {
+      "root": "port",
+      "meaning": "carry",
+      "chinese": "携带、运送",
+      "description": "看到 port，可以先联想到 carry：携带、运送。",
+      "words": [
+        {
+          "word": "transport",
+          "parts": "trans + port",
+          "idea": "carry across",
+          "chinese": "运输、运送",
+          "example": "Trucks transport goods across the country.",
+          "translation": "卡车把货物运往全国各地。"
+        },
+        {
+          "word": "import",
+          "parts": "im + port",
+          "idea": "carry in",
+          "chinese": "进口",
+          "example": "China imports some food from other countries.",
+          "translation": "中国从其他国家进口一些食品。"
+        },
+        {
+          "word": "export",
+          "parts": "ex + port",
+          "idea": "carry out",
+          "chinese": "出口",
+          "example": "The company exports cars to Japan.",
+          "translation": "这家公司把汽车出口到日本。"
+        },
+        {
+          "word": "portable",
+          "parts": "port + able",
+          "idea": "able to be carried",
+          "chinese": "便携的",
+          "example": "This is a portable computer.",
+          "translation": "这是一台便携式电脑。"
+        },
+        {
+          "word": "report",
+          "parts": "re + port",
+          "idea": "carry back",
+          "chinese": "报告、报道",
+          "example": "Please report the problem.",
+          "translation": "请报告这个问题。"
+        },
+        {
+          "word": "support",
+          "parts": "sup + port",
+          "idea": "support / carry",
+          "chinese": "支持、支撑",
+          "example": "My family supports me.",
+          "translation": "我的家人支持我。"
+        }
+      ]
+    },
+    {
+      "root": "dict",
+      "meaning": "say",
+      "chinese": "说、讲",
+      "description": "看到 dict，可以先联想到 say：说、讲。",
+      "words": [
+        {
+          "word": "predict",
+          "parts": "pre + dict",
+          "idea": "say before",
+          "chinese": "预测、预言",
+          "example": "Scientists predict that the weather will change.",
+          "translation": "科学家预测天气会发生变化。"
+        },
+        {
+          "word": "dictate",
+          "parts": "dict + ate",
+          "idea": "say or order",
+          "chinese": "口述；命令",
+          "example": "The manager dictated a letter.",
+          "translation": "经理口述了一封信。"
+        },
+        {
+          "word": "dictionary",
+          "parts": "dict + ionary",
+          "idea": "a book about words",
+          "chinese": "词典",
+          "example": "I use a dictionary to learn new words.",
+          "translation": "我用词典学习新单词。"
+        }
+      ]
+    },
+    {
+      "root": "tract",
+      "meaning": "pull",
+      "chinese": "拉、拖",
+      "description": "看到 tract，可以先联想到 pull：拉、拖。",
+      "words": [
+        {
+          "word": "attract",
+          "parts": "at + tract",
+          "idea": "pull toward",
+          "chinese": "吸引",
+          "example": "Bright colors attract children.",
+          "translation": "鲜艳的颜色吸引孩子们。"
+        },
+        {
+          "word": "contract",
+          "parts": "con + tract",
+          "idea": "pull together",
+          "chinese": "合同；收缩",
+          "example": "They signed a contract yesterday.",
+          "translation": "他们昨天签了一份合同。"
+        },
+        {
+          "word": "distract",
+          "parts": "dis + tract",
+          "idea": "pull away",
+          "chinese": "分散注意力",
+          "example": "Noise can distract me when I study.",
+          "translation": "我学习时，噪音会分散我的注意力。"
+        }
+      ]
+    },
+    {
+      "root": "spect",
+      "meaning": "look",
+      "chinese": "看、观察",
+      "description": "看到 spect，可以先联想到 look：看、观察。",
+      "words": [
+        {
+          "word": "inspect",
+          "parts": "in + spect",
+          "idea": "look into",
+          "chinese": "检查、查看",
+          "example": "The engineer inspected the machine.",
+          "translation": "工程师检查了这台机器。"
+        },
+        {
+          "word": "respect",
+          "parts": "re + spect",
+          "idea": "look back / regard",
+          "chinese": "尊重",
+          "example": "I respect my teacher.",
+          "translation": "我尊敬我的老师。"
+        },
+        {
+          "word": "expect",
+          "parts": "ex + spect",
+          "idea": "look forward / anticipate",
+          "chinese": "期待、预期",
+          "example": "We expect good results.",
+          "translation": "我们期待好的结果。"
+        }
+      ]
+    },
+{
+  "root": "struct",
+  "chinese": "建造、建立",
+  "meaning": "build",
+  "description": "The root struct means 'build' or 'make'.",
+  "words": [
+    {
+      "word": "structure",
+      "parts": "struct + ure",
+      "idea": "something built",
+      "chinese": "结构；构造",
+      "example": "The structure of the building is strong.",
+      "translation": "这座建筑的结构很坚固。"
+    },
+    {
+      "word": "construct",
+      "parts": "con + struct",
+      "idea": "build together",
+      "chinese": "建造；构建",
+      "example": "They constructed a new bridge.",
+      "translation": "他们建造了一座新桥。"
+    },
+    {
+      "word": "instruct",
+      "parts": "in + struct",
+      "idea": "give guidance",
+      "chinese": "指导；指示",
+      "example": "The teacher instructed the students.",
+      "translation": "老师指导学生。"
+    },
+    {
+      "word": "reconstruct",
+      "parts": "re + construct",
+      "idea": "build again",
+      "chinese": "重建；重新构建",
+      "example": "They reconstructed the old building.",
+      "translation": "他们重建了那座老建筑。"
+    }
+  ]
+}
+  ]
+}
